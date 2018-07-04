@@ -1,0 +1,14 @@
+._*
+.cache
+.DS_Store
+Thumbs.db
+__MACOSX
+
+node_modules
+package-lock.json
+npm-debug.log
+
+dist
+build
+.publish
+prototype
